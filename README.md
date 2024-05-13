@@ -3,3 +3,5 @@ In the root directory, code can be found for topic modeling in TopicCode.ipynb, 
 Code used for data scraping can be found in the Transcription_Tools directory.
 
 The process of EDA and pandas dataset creation can be found in EDA.ipynb.
+
+The write up can be found in NLP_Project_Paper. 
