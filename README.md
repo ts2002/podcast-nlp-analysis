@@ -1,3 +1,5 @@
+An exploration into using speech to text machine learning models to generate data to perform time-based NLP analysis on various Podcasts.
+
 The write up can be found in NLP_Project_Paper.md/.html or hosted online [here](https://ts2002.github.io/NLP/NLP_Project_Paper.htm.html)
 
 ### File overview
